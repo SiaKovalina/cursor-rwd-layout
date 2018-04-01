@@ -37,7 +37,7 @@ header {
 }
 main {
     display: flex;
-    max-width: 1240px;
+    max-width: 960px;
     margin: 0 auto;
 }
 aside {
